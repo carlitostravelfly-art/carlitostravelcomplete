@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:flutter/foundation.dart' show kIsWeb;
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';        // MethodChannel + rootBundle
 import 'package:carousel_slider/carousel_slider.dart';
@@ -4574,15 +4574,46 @@ final List<_Visa2Card> _visa2Cards = [
 // 🌐 SERVICIO API
 // 🌐 ===================================================
 class ApiService {
-  static const String baseUrl = 'http://192.168.1.41:8000';
+  /// Base URL configurable por entorno:
+  /// - iOS Simulator: http://localhost:8000
+  /// - Android Emulator: http://10.0.2.2:8000
+  /// - iPhone físico (misma Wi‑Fi): http://<IP_DE_TU_MAC>:8000
+  ///
+  /// Ejemplos:
+  /// flutter run --dart-define=API_BASE_URL=http://localhost:8000
+  /// flutter run --dart-define=API_BASE_URL=http://192.168.1.41:8000
+  static String get baseUrl {
+    const fromEnv = String.fromEnvironment('API_BASE_URL', defaultValue: '');
+    if (fromEnv.trim().isNotEmpty) return fromEnv.trim();
+
+    // Defaults inteligentes (sin tocar código cada vez)
+    if (kIsWeb) return 'http://localhost:8000';
+    switch (defaultTargetPlatform) {
+      case TargetPlatform.android:
+        return 'http://10.0.2.2:8000';
+      case TargetPlatform.iOS:
+        return 'http://localhost:8000'; // iOS Simulator
+      default:
+        return 'http://localhost:8000';
+    }
+  }
 
   static Future<int?> registrarAsesoria(Map<String, dynamic> data) async {
     final url = Uri.parse('$baseUrl/api/asesoria');
-    final response = await http.post(
+    http.Response response;
+    try {
+      response = await http.post(
       url,
       headers: {'Content-Type': 'application/json'},
       body: jsonEncode(data),
-    );
+      ).timeout(const Duration(seconds: 20));
+    } on TimeoutException {
+      debugPrint('⏱️ Timeout llamando $url');
+      return null;
+    } on Exception catch (e) {
+      debugPrint('❌ Error de red llamando $url: $e');
+      return null;
+    }
 
     if (response.statusCode == 200) {
       final json = jsonDecode(response.body);
@@ -4734,6 +4765,7 @@ class _AsesoriaFormPageState extends State<AsesoriaFormPage>
 
     if (uri.scheme != "carlitostravel") return;
 
+    // 1) Algunos redirects incluyen 'status', otros SOLO incluyen 'id' (transaction id).
     String status = (uri.queryParameters["status"] ??
             uri.queryParameters["transactionStatus"] ??
             uri.queryParameters["transaction_status"] ??
@@ -4741,11 +4773,25 @@ class _AsesoriaFormPageState extends State<AsesoriaFormPage>
         .trim()
         .toUpperCase();
 
-    debugPrint("🔎 STATUS RECIBIDO: '$status'");
+    final transactionId = (uri.queryParameters["id"] ??
+            uri.queryParameters["transactionId"] ??
+            uri.queryParameters["transaction_id"] ??
+            "")
+        .trim();
 
-    if (status.isEmpty) status = "FAILED";
+    debugPrint("🔎 STATUS RECIBIDO: '$status'");
+    debugPrint("🧾 TRANSACTION ID RECIBIDO: '$transactionId'");
 
     if (_idAsesoria == null) return;
+
+    // 2) Si no viene status (muy común en Wompi), consultamos a Wompi por el ID de transacción.
+    if (status.isEmpty && transactionId.isNotEmpty) {
+      _verificarPagoWompiYContinuar(transactionId);
+      return;
+    }
+
+    // 3) Si viene status, actuamos con él.
+    if (status.isEmpty) status = "FAILED";
 
     if (status == "APPROVED") {
       Navigator.push(
@@ -4760,6 +4806,84 @@ class _AsesoriaFormPageState extends State<AsesoriaFormPage>
       );
     }
   }
+
+  /// Consulta el estado real de la transacción en Wompi usando el transactionId,
+  /// y si queda APPROVED, continúa al agendamiento.
+  ///
+  /// Docs: Wompi recomienda validar por API usando GET /v1/transactions/<ID>. 
+  /// Base URL Prod: https://production.wompi.co/v1 citeturn2search0
+  Future<void> _verificarPagoWompiYContinuar(String transactionId) async {
+    if (_procesandoPago) return;
+
+    setState(() => _procesandoPago = true);
+
+    final wompiUrl = Uri.parse("https://production.wompi.co/v1/transactions/$transactionId");
+
+    try {
+      // Wompi puede tardar unos segundos en reflejar estado final (PENDING -> APPROVED/DECLINED/etc.)
+      // Hacemos polling corto.
+      const maxIntentos = 10;
+      const espera = Duration(seconds: 2);
+
+      String? status;
+      for (var i = 0; i < maxIntentos; i++) {
+        final resp = await http.get(wompiUrl).timeout(const Duration(seconds: 15));
+
+        if (resp.statusCode >= 200 && resp.statusCode < 300) {
+          final jsonBody = jsonDecode(resp.body) as Map<String, dynamic>;
+          final data = (jsonBody["data"] ?? {}) as Map<String, dynamic>;
+          status = (data["status"] ?? "").toString().trim().toUpperCase();
+          debugPrint("📡 Wompi status (intento ${i + 1}/$maxIntentos): $status");
+
+          // Estados finales típicos: APPROVED / DECLINED / VOIDED / ERROR (tarjeta),
+          // y en algunos flujos: FAILED / REJECTED / CANCELLED. citeturn0search7turn0search2
+          if (status == "APPROVED") break;
+          if (status == "DECLINED" ||
+              status == "VOIDED" ||
+              status == "ERROR" ||
+              status == "FAILED" ||
+              status == "REJECTED" ||
+              status == "CANCELLED") {
+            break;
+          }
+        } else {
+          debugPrint("❌ Error consultando Wompi: ${resp.statusCode} ${resp.body}");
+          // Si Wompi responde error, no seguimos insistiendo demasiado.
+          break;
+        }
+
+        await Future.delayed(espera);
+      }
+
+      if (!mounted) return;
+
+      if (status == "APPROVED") {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (_) => SeleccionHorarioPage(idAsesoria: _idAsesoria!),
+          ),
+        );
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text("Pago no confirmado en Wompi (${status ?? "DESCONOCIDO"})")),
+        );
+      }
+    } on TimeoutException {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text("⏱️ Timeout verificando pago en Wompi")),
+      );
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text("❌ Error verificando pago: $e")),
+      );
+    } finally {
+      if (mounted) setState(() => _procesandoPago = false);
+    }
+  }
+
 
 
   @override

@@ -1,19 +1,70 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="es">
 <head>
-<meta charset="UTF-8" />
-<title>Wompi Redirect</title>
-<script>
-  window.onload = function () {
-    const params = new URLSearchParams(window.location.search);
-    const status = params.get('status') || '';
-    const transactionId = params.get('id') || '';
-    const deeplink = `carlitostravel://pago?status=${status}&id=${transactionId}`;
-    window.location.href = deeplink;
-  };
-</script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Volviendo a Carlitos Travel…</title>
+  <style>
+    body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;padding:24px;line-height:1.4}
+    code{background:#f3f3f3;padding:2px 6px;border-radius:6px}
+    pre{background:#f7f7f7;padding:12px;border-radius:10px;overflow:auto}
+    .small{opacity:.8;font-size:13px}
+    .btn{display:inline-block;padding:10px 14px;border-radius:10px;background:#111;color:#fff;text-decoration:none}
+  </style>
 </head>
 <body>
-  <p>Procesando pago...</p>
+  <h2>Procesando tu pago…</h2>
+  <p>Si no te redirige automáticamente, toca aquí:</p>
+  <p><a class="btn" id="openLink" href="#">Abrir Carlitos Travel</a></p>
+
+  <p class="small"><b>Debug (copia y pégame esto si falla):</b></p>
+  <pre class="small" id="debug"></pre>
+
+  <script>
+    (function () {
+      const fullUrl = window.location.href;
+
+      function paramsFromSearch() {
+        try { return new URLSearchParams(window.location.search || ""); }
+        catch (e) { return new URLSearchParams(""); }
+      }
+
+      function paramsFromHash() {
+        // hash puede ser "#/ruta?id=..." o "#id=..." etc.
+        const h = (window.location.hash || "");
+        const q = h.indexOf("?");
+        if (q === -1) return new URLSearchParams("");
+        return new URLSearchParams(h.substring(q));
+      }
+
+      const ps = paramsFromSearch();
+      const ph = paramsFromHash();
+
+      function pick(key) {
+        const v = (ps.get(key) || ph.get(key) || "").trim();
+        return v;
+      }
+
+      // Wompi normalmente envía el transaction id como 'id' al redirect-url.
+      const id = pick("id") || pick("transactionId") || pick("transaction_id");
+      const status = pick("status") || pick("transactionStatus") || pick("transaction_status");
+
+      // Nunca inventamos FAILED. Si no hay id, mandamos UNKNOWN.
+      const deepLink = id
+        ? `carlitostravel://pago?id=${encodeURIComponent(id)}${status ? `&status=${encodeURIComponent(status)}` : ""}`
+        : `carlitostravel://pago?status=${encodeURIComponent(status || "UNKNOWN")}`;
+
+      const el = document.getElementById("openLink");
+      el.href = deepLink;
+
+      document.getElementById("debug").textContent =
+        `URL completa:\n${fullUrl}\n\nsearch='${window.location.search}'\nhash='${window.location.hash}'\n\nParams(search): ${ps.toString() || "(vacío)"}\nParams(hash): ${ph.toString() || "(vacío)"}\n\nExtraído:\n  id=${id || "(vacío)"}\n  status=${status || "(vacío)"}\n\nDeepLink:\n  ${deepLink}`;
+
+      // Abrir app automáticamente
+      window.location.href = deepLink;
+
+      // Fallback: si no abre, el botón queda visible.
+    })();
+  </script>
 </body>
 </html>
