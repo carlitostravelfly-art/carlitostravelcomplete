@@ -31,3 +31,20 @@
 
 # Archives
 *.zip
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.Python
+**/env/
+**/venv/
+**/.venv/
+**/ENV/
+**/virtualenv/
+
+# SQLite / DB local
+*.db
+*.sqlite
+*.sqlite3
+
