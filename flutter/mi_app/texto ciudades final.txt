@@ -1,0 +1,1182 @@
+'amsterdam': '''
+Ámsterdam — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde su origen como un modesto pueblo pesquero en el siglo XII, Ámsterdam creció alrededor de canales estratégicos que conectaban comercio y cultura. Su Edad de Oro en el siglo XVII la convirtió en epicentro de arte, comercio y tolerancia.
+
+• Dónde late  
+Recorre el Jordaan y De Negen Straatjes, donde cafés y boutiques conviven con la historia de sus canales.
+
+• Hitos  
+Museos de renombre mundial, casas flotantes y eventos como el Día del Rey definen su espíritu vibrante.
+
+• Identidad cultural  
+Arquitectura típica de casas altas y estrechas, bicicletas por doquier, mercados de flores y cafés que conservan la esencia local.
+
+Top 10 actividades
+1. Paseo por los canales — 90–120 min. Mejor temprano. Tip: free tour.
+2. Museo Van Gogh — Reserva con antelación.
+3. Barrio Jordaan — Explora galerías y cafés.
+4. Casa de Ana Frank — Entrada anticipada obligatoria.
+5. Vondelpark — Picnic y paseo en bici.
+6. Mercado de Albert Cuyp — Degusta street food local.
+7. Negen Straatjes — Compras y boutiques artesanales.
+8. Crucero nocturno por canales — Vistas iluminadas.
+9. Excursión a Zaanse Schans — Molinos y tradición a 20 min.
+10. Stroopwafel + queso local — Cierra con sabor auténtico.
+''',
+'bali': '''
+Bali — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde antiguos reinos balineses hasta influencia colonial, Bali se ha forjado entre templos, arrozales y comercio marítimo, manteniendo su espiritualidad intacta.
+
+• Dónde late  
+Ubud, Canggu y Seminyak son el corazón cultural y creativo de la isla, entre galerías, cafés y surf.
+
+• Hitos  
+Templos sobre acantilados, campos de arroz y festivales como Galungan y Nyepi marcan la tradición y la modernidad.
+
+• Identidad cultural  
+Rituales, danzas y gastronomía local —babi guling y sate lilit— conviven con mercados vibrantes y playas paradisíacas.
+
+Top 10 actividades
+1. Templo de Uluwatu — Atardecer y danza kecak.
+2. Campos de arroz de Tegalalang — Paseo fotográfico.
+3. Monkey Forest en Ubud — Naturaleza y cultura.
+4. Surf en Canggu — Lecciones o alquiler de tabla.
+5. Cascadas de Sekumpul — Excursión de día completo.
+6. Mercados artesanales de Ubud — Artesanía y souvenirs.
+7. Templo Tanah Lot — Fotografía icónica al atardecer.
+8. Jardines de flores en Bali Botanic Garden — Picnic y relajación.
+9. Clase de cocina balinesa — Aprende platos locales.
+10. Relajación en spa tradicional — Masaje con aceite de coco.
+''',
+'bangkok': '''
+Bangkok — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde pequeña aldea ribereña del río Chao Phraya a capital próspera de Siam, Bangkok ha mezclado templos dorados con comercio global desde el siglo XVIII.
+
+• Dónde late  
+Templos como Wat Pho y Wat Arun, mercados flotantes y rooftops con vistas al río son su alma.
+
+• Hitos  
+Festivales como Songkran y Loy Krathong llenan de color la ciudad, mientras rascacielos y tuk-tuks definen su skyline.
+
+• Identidad cultural  
+La gastronomía callejera es legendaria, la vida nocturna intensa y la hospitalidad tailandesa palpita en cada esquina.
+
+Top 10 actividades
+1. Gran Palacio y Wat Phra Kaew — Historia y arquitectura impresionante.
+2. Templo Wat Pho — Reclinado gigante y masaje tradicional.
+3. Mercado flotante Damnoen Saduak — Experiencia auténtica.
+4. Khao San Road — Vida nocturna y street food.
+5. Chinatown (Yaowarat) — Sabores y cultura.
+6. Asiatique The Riverfront — Compras y entretenimiento.
+7. Rooftop bar en Sukhumvit — Vistas panorámicas.
+8. Crucero nocturno por el río Chao Phraya — Magia urbana.
+9. Museo Jim Thompson — Arte y arquitectura tailandesa.
+10. Clase de cocina tailandesa — Aprende currys y pad thai.
+''',
+'barcelona': '''
+Barcelona — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde asentamientos romanos hasta ciudad modernista, Barcelona se ha forjado entre mar y montaña, combinando historia y creatividad.
+
+• Dónde late  
+Barrio Gótico, El Born y la Rambla laten con cafés, tiendas y arte callejero.
+
+• Hitos  
+Obras de Gaudí, festivales como La Mercè y eventos deportivos definen su identidad.
+
+• Identidad cultural  
+Tapas, vermut y mercados locales conviven con arquitectura modernista y playas mediterráneas.
+
+Top 10 actividades
+1. Sagrada Familia — Reserva online.
+2. Parc Güell — Colores y vistas.
+3. Barrio Gótico — Calles históricas y plazas.
+4. La Rambla — Paseo y artistas callejeros.
+5. Mercado de la Boquería — Gastronomía local.
+6. Montjuïc — Jardines y vistas panorámicas.
+7. Museo Picasso — Arte y cultura.
+8. Playas de la Barceloneta — Relax y sol.
+9. Bares de tapas en El Born — Tapas auténticas.
+10. Excursión a Montserrat — Naturaleza y monasterio.
+''',
+'brujas': '''
+Brujas — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Fundada en la Edad Media, Brujas creció como ciudad mercante y portuaria, conservando su casco antiguo intacto.
+
+• Identidad  
+Callejones empedrados, canales y arquitectura gótica se combinan con chocolaterías y cervezas locales.
+
+Plan exprés
+1) Paseo por el centro histórico (60–90 min)
+2) Mirador de Belfort para vistas panorámicas
+3) Mercado de Grote Markt para picar algo
+4) Barrio de Begijnhof — tranquilo y fotogénico
+5) Degustación de chocolate y cerveza belga
+''',
+'budapest': '''
+Budapest — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Formada por la unión de Buda y Pest en el siglo XIX, Budapest combina siglos de historia entre castillos, baños termales y puentes emblemáticos.
+
+• Dónde late  
+Baños termales, Puente de las Cadenas y bares en ruinas definen la esencia local.
+
+• Hitos  
+Festivales de música, cine y arte se suman a su impresionante arquitectura.
+
+• Identidad cultural  
+Cafés históricos, gastronomía húngara y vida nocturna en ruinas de bares crean un ambiente único.
+
+Top 10 actividades
+1. Castillo de Buda — Historia y vistas.
+2. Baños Széchenyi — Relax termal.
+3. Parlamento de Hungría — Icono arquitectónico.
+4. Puente de las Cadenas — Fotografía panorámica.
+5. Bares en ruinas — Experiencia nocturna.
+6. Mercado Central — Productos locales.
+7. Iglesia de Matías — Arte gótico.
+8. Basílica de San Esteban — Historia y arquitectura.
+9. Crucero por el Danubio — Vistas nocturnas.
+10. Pastel lángos + dulce local — Sabor auténtico.
+''',
+'buenos_aires': '''
+Buenos Aires — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De puerto colonial a capital cosmopolita, Buenos Aires mezcla influencias españolas, italianas y europeas desde el siglo XVI.
+
+• Dónde late  
+San Telmo, Palermo y Recoleta concentran vida cultural, cafés y mercados.
+
+• Hitos  
+Teatros, tango y ferias callejeras como San Telmo y Mataderos marcan su carácter.
+
+• Identidad cultural  
+Tango, parrillas, cafés históricos y mercados locales reflejan un estilo de vida vibrante y apasionado.
+
+Top 10 actividades
+1. Caminito en La Boca — Arte y color.
+2. Plaza de Mayo y Casa Rosada — Historia argentina.
+3. Teatro Colón — Icono cultural.
+4. San Telmo — Antigüedades y tango.
+5. Recoleta y Cementerio — Historia y arquitectura.
+6. Palermo Soho — Arte y cafés modernos.
+7. Puerto Madero — Paseo y gastronomía.
+8. Milonga nocturna — Bailar tango auténtico.
+9. Museo de Bellas Artes — Arte clásico y moderno.
+10. Parrilla local + dulce tradicional — Experiencia culinaria.
+''',
+'cancun': '''
+Cancún — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+De pequeña villa pesquera a destino turístico internacional, Cancún combina playas caribeñas y cultura maya.
+
+• Identidad  
+Playas de arena blanca, mercados locales y vida nocturna con ritmos latinos.
+
+Plan exprés
+1) Paseo por la zona hotelera y playas (60–90 min)
+2) Mirador del Parque de las Palapas
+3) Mercado 28 para compras y gastronomía
+4) Calle más pintoresca de la ciudad
+5) Degustación de tacos y marquesitas
+''',
+'capri': '''
+Capri — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Isla con historia romana y medieval, Capri ha sido refugio de artistas y aristócratas.
+
+• Identidad  
+Acantilados, villas y jardines se mezclan con cafés y tiendas exclusivas.
+
+Plan exprés
+1) Paseo por la Piazzetta (60–90 min)
+2) Mirador de los Jardines de Augusto
+3) Excursión a la Gruta Azul
+4) Calle más pintoresca de Anacapri
+5) Degustación de limoncello y pastelería local
+''',
+'chengdu': '''
+Chengdu — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde ciudad imperial a capital de Sichuan, Chengdu combina historia milenaria con gastronomía picante y cultura del té.
+
+• Dónde late  
+Pandas, mercados y el barrio antiguo de Jinli reflejan la vida local.
+
+• Hitos  
+Templos, teatros de ópera de Sichuan y festivales culturales llenan su skyline de tradición.
+
+• Identidad cultural  
+Hotpot picante, té y mercado callejero reflejan la hospitalidad de sus habitantes.
+
+Top 10 actividades
+1. Centro histórico a pie — Jinli y Wuhou Shrine.
+2. Panda Base — Icono mundial.
+3. Calle Kuanzhai Xiangzi — Arquitectura y cafés.
+4. Mercado local de Sichuan — Street food y souvenirs.
+5. Museo de Sichuan — Arte y cultura.
+6. Templo Wuhou — Historia y rituales.
+7. Parque People’s Park — Té y vida cotidiana.
+8. Opera de Sichuan — Máscara cambiante.
+9. Excursión cercana — Leshan Giant Buddha.
+10. Hotpot tradicional + dulces locales — Cierra con sabor auténtico.
+''',
+
+
+'chiang_mai': '''
+Chiang Mai — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Fundada en 1296 como capital del Reino de Lanna, Chiang Mai conserva murallas y templos que narran siglos de historia y comercio en el norte de Tailandia.
+
+• Dónde late  
+Templos, cafés artesanales y mercados nocturnos crean el alma de la ciudad.
+
+• Hitos  
+Festivales como Yi Peng (linternas flotantes) y Songkran destacan la cultura local.
+
+• Identidad cultural  
+Artesanía, gastronomía del norte, yoga y vida relajada contrastan con el bullicio de sus mercados.
+
+Top 10 actividades
+1. Templo Doi Suthep — Vistas panorámicas.
+2. Old City Walk — Murallas, templos y callejones.
+3. Night Bazaar — Compras y street food.
+4. Clase de cocina tailandesa — Experiencia práctica.
+5. Templo Wat Chedi Luang — Historia y arquitectura.
+6. Parque Doi Inthanon — Naturaleza y cascadas.
+7. Café artesanal en Nimmanhaemin Road — Relax y estilo.
+8. Elephant Nature Park — Voluntariado y experiencia ética.
+9. Festival Yi Peng — Linternas y fotografía.
+10. Plato khao soi + dulce local — Sabor auténtico.
+''',
+'chongqing': '''
+Chongqing — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Con raíces de más de 3.000 años, esta ciudad montañosa del suroeste de China ha sido un puerto clave en el Yangtsé y centro industrial y cultural.
+
+• Dónde late  
+Rascacielos sobre colinas, puentes y trenes que atraviesan edificios definen su skyline único.
+
+• Hitos  
+Templos antiguos, museos y festivales tradicionales resaltan la historia y resiliencia local.
+
+• Identidad cultural  
+Gastronomía picante, mercados bulliciosos y cultura del té crean una experiencia urbana intensa y auténtica.
+
+Top 10 actividades
+1. Centro histórico a pie — Ciqikou y Jiefangbei.
+2. Mirador Hongya Cave — Fotografía y compras.
+3. Crucero por el río Yangtsé — Skyline nocturno.
+4. Museo de Chongqing — Historia y arte.
+5. Baños termales en el área de Huaqiao — Relax urbano.
+6. Puente Chaotianmen — Ingeniería y vistas.
+7. Ruta gastronómica de hotpot — Picante auténtico.
+8. Teleférico sobre el río — Experiencia urbana.
+9. Excursión cercana a Dazu — Tallas budistas.
+10. Dulces y snacks locales — Mercado callejero.
+''',
+'ciudad_de_panama': '''
+Ciudad de Panamá — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Desde su fundación en 1519 como puerto colonial, la ciudad se convirtió en puerta de comercio entre océanos y culturas.
+
+• Identidad  
+Mezcla de rascacielos modernos y casco antiguo histórico, con gastronomía de fusión y vida de barrio.
+
+Plan exprés
+1) Paseo por Casco Viejo (60–90 min)
+2) Mirador Cerro Ancón
+3) Mercado de Mariscos — degustación fresca
+4) Calle peatonal Santa Ana
+5) Cafetería local + dulce típico
+''',
+'cusco': '''
+Cusco — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Capital del Imperio Inca, Cusco mantiene su trazado original y arquitectura que combina piedra incaica con colonial española.
+
+• Identidad  
+Calles empedradas, plazas históricas, mercados artesanales y gastronomía andina se fusionan en cada esquina.
+
+Plan exprés
+1) Plaza de Armas y Catedral (60–90 min)
+2) Barrio de San Blas
+3) Mercado de San Pedro — productos locales
+4) Callejones fotogénicos
+5) Degustación de cuy y alfajores
+''',
+'dubai': '''
+Dubái — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De humilde pueblo pesquero a metrópolis global, Dubái ha crecido en el desierto gracias a comercio, petróleo y turismo.
+
+• Dónde late  
+Marina, Downtown y zocos muestran el lujo futurista fusionado con tradición árabe.
+
+• Hitos  
+Rascacielos, islas artificiales y eventos como el Dubai Shopping Festival marcan su modernidad.
+
+• Identidad cultural  
+Gastronomía internacional, mercados tradicionales y vida nocturna de lujo definen su estilo.
+
+Top 10 actividades
+1. Burj Khalifa — Observatorio y fotografía.
+2. Dubai Mall — Compras y entretenimiento.
+3. Dubai Fountain — Show nocturno.
+4. Old Dubai & Gold Souk — Cultura y comercio.
+5. Safari por el desierto — Aventura y cena típica.
+6. Palm Jumeirah — Paseo y vistas.
+7. Museo de Dubái — Historia y tradición.
+8. Marina Walk — Paseo y cafés.
+9. Skyline desde dhow cruise — Experiencia fotográfica.
+10. Plato shawarma + dulce árabe — Sabor local.
+''',
+'el_cairo': '''
+El Cairo — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde asentamientos antiguos cerca del Nilo, El Cairo creció como epicentro de cultura, comercio y poder islámico y faraónico.
+
+• Dónde late  
+Pirámides de Giza, bazares tradicionales y callejones del histórico Khan el-Khalili.
+
+• Hitos  
+Museos, mezquitas y festivales de música y danza reflejan su riqueza cultural.
+
+• Identidad cultural  
+Gastronomía callejera, arquitectura monumental y la vida cotidiana en mercados y cafés locales.
+
+Top 10 actividades
+1. Pirámides de Giza y Esfinge — Historia milenaria.
+2. Museo Egipcio — Tesoros faraónicos.
+3. Khan el-Khalili — Compras y ambiente.
+4. Calle Al-Muizz — Arquitectura islámica.
+5. Citadel de Saladino — Vistas y mezquita.
+6. Café tradicional egipcio — Té y narguile.
+7. Crucero por el Nilo — Atardecer inolvidable.
+8. Museo Copto — Historia cristiana en Egipto.
+9. Excursión a Saqqara — Pirámides escalonadas.
+10. Plato koshari + baklava — Sabor auténtico.
+''',
+'florencia': '''
+Florencia — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Cuna del Renacimiento, Florencia floreció gracias al comercio y mecenazgo de familias como los Medici.
+
+• Dónde late  
+Plazas, puentes y mercados conservan la esencia artística de la ciudad.
+
+• Hitos  
+Galerías de arte, catedrales y eventos culturales han dejado huella en su skyline renacentista.
+
+• Identidad cultural  
+Arte, gastronomía toscana y cafés históricos invitan a recorrer la ciudad a cada paso.
+
+Top 10 actividades
+1. Catedral de Santa María del Fiore — Arte y arquitectura.
+2. Galería Uffizi — Obras maestras.
+3. Ponte Vecchio — Fotografía y joyerías.
+4. Mercado Central — Gastronomía local.
+5. Palazzo Pitti y Jardines Boboli — Historia y paseo.
+6. Plaza de la Signoria — Monumentos y ambiente.
+7. Basilica di Santa Croce — Arte y cultura.
+8. Excursión a Fiesole — Vista panorámica.
+9. Cafés históricos en el centro — Relax y ambiente.
+10. Plato ribollita + dulce cantucci — Cierra con sabor auténtico.
+''',
+'fukuoka': '''
+Fukuoka — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Puerto estratégico desde la antigüedad, Fukuoka creció como ciudad comercial y cultural en Kyushu.
+
+• Dónde late  
+Yatai de ramen, bahía y barrios creativos muestran su vida local.
+
+• Hitos  
+Castillo de Fukuoka, templos y festivales como Hakata Gion Yamakasa destacan su identidad.
+
+• Identidad cultural  
+Ramen callejero, festivales tradicionales y cultura pop japonesa hacen de la ciudad un punto vibrante del sur de Japón.
+
+Top 10 actividades
+1. Castillo de Fukuoka — Historia y vistas.
+2. Hakata Machiya Folk Museum — Cultura local.
+3. Yatai food stalls — Experiencia culinaria.
+4. Templo Shofukuji — Tranquilidad y tradición.
+5. Parque Ohori — Relax y paseo.
+6. Canal City Hakata — Compras y entretenimiento.
+7. Festival Hakata Gion Yamakasa — Color y tradición.
+8. Excursión a Nokonoshima Island — Naturaleza.
+9. Ruta gastronómica ramen — Prueba especialidades.
+10. Dulces y mochis locales — Cierra con sabor auténtico.
+''',
+'hiroshima': '''
+Hiroshima — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde ciudad feudal hasta epicentro de memoria mundial, Hiroshima combina resiliencia con cultura contemporánea.
+
+• Dónde late  
+Parques ribereños, museos de paz y la isla de Miyajima muestran su identidad.
+
+• Hitos  
+Museo de la Paz, Cúpula de la Bomba Atómica y festivales locales narran la historia y esperanza.
+
+• Identidad cultural  
+Gastronomía local —okonomiyaki y ostras—, templos y vida cotidiana reflejan una ciudad que renace.
+
+Top 10 actividades
+1. Parque Conmemorativo de la Paz — Historia y reflexión.
+2. Museo de la Paz — Exhibiciones conmovedoras.
+3. Cúpula de la Bomba Atómica — Símbolo mundial.
+4. Isla Miyajima y Torii flotante — Icono fotográfico.
+5. Castillo de Hiroshima — Historia samurái.
+6. Okonomimura — Okonomiyaki local.
+7. Shukkeien Garden — Jardines tradicionales.
+8. Templo Mitaki-dera — Tranquilidad y naturaleza.
+9. Excursión en ferry a Itsukushima — Vista panorámica.
+10. Dulces y sake locales — Sabor auténtico.
+''',
+'kioto': '''
+Kioto — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Capital imperial durante más de mil años, Kioto conserva templos, santuarios y jardines zen de tradición milenaria.
+
+• Dónde late  
+Gion, callejones tradicionales y mercados artesanales concentran cultura y gastronomía.
+
+• Hitos  
+Templos Kinkaku-ji y Fushimi Inari, festivales y arquitectura tradicional definen su skyline histórico.
+
+• Identidad cultural  
+Ceremonias de té, kaiseki y artesanía conviven con vida callejera y cultura pop japonesa.
+
+Top 10 actividades
+1. Templo Kinkaku-ji (Pabellón Dorado) — Fotografía icónica.
+2. Fushimi Inari Taisha — Paseo por torii.
+3. Barrio Gion — Geishas y callejones.
+4. Mercado Nishiki — Gastronomía local.
+5. Templo Kiyomizu-dera — Vistas panorámicas.
+6. Castillo Nijo — Historia samurái.
+7. Jardín Shoren-in — Paz y naturaleza.
+8. Excursión a Arashiyama — Bosque de bambú.
+9. Clase de cocina kaiseki — Experiencia culinaria.
+10. Dulces y matcha tradicionales — Sabor auténtico.
+''',
+'las_vegas': '''
+Las Vegas — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De oasis en el desierto a capital del entretenimiento mundial, Las Vegas creció gracias al ferrocarril y al juego legalizado a mediados del siglo XX.
+
+• Dónde late  
+The Strip, Fremont Street y resorts temáticos son el corazón de su espectáculo urbano.
+
+• Hitos  
+Hoteles icónicos, casinos, espectáculos y festivales definen su skyline luminoso.
+
+• Identidad cultural  
+Entre neon, gastronomía gourmet, conciertos y shows de primer nivel, la ciudad nunca duerme.
+
+Top 10 actividades
+1. Paseo por The Strip — Casinos y arquitectura temática.
+2. Fremont Street Experience — Show de luces y música.
+3. Espectáculo de Cirque du Soleil — Reserva anticipada.
+4. High Roller Observation Wheel — Vistas panorámicas.
+5. Bellagio Fountains — Show gratuito icónico.
+6. Neon Museum — Historia de letreros luminosos.
+7. Excursión al Red Rock Canyon — Naturaleza cerca del desierto.
+8. Compras en Forum Shops o Fashion Show Mall — Moda y lujo.
+9. Bares y clubs en The Strip — Vida nocturna intensa.
+10. Buffet típico + postre local — Cierra con sabor auténtico.
+''',
+'lisboa': '''
+Lisboa — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde asentamientos fenicios y romanos hasta capital del descubrimiento marítimo, Lisboa creció sobre colinas frente al Atlántico.
+
+• Dónde late  
+Alfama, Bairro Alto y Baixa concentran vida cultural, miradores y tranvías históricos.
+
+• Hitos  
+Torre de Belém, Monasterio de los Jerónimos y festivales como Festas de Lisboa destacan en su skyline.
+
+• Identidad cultural  
+Fado, pasteles de nata, arquitectura azulejada y cafés tradicionales definen la esencia lisboeta.
+
+Top 10 actividades
+1. Torre de Belém — Fotografía y paseo histórico.
+2. Monasterio de los Jerónimos — Patrimonio cultural.
+3. Barrio de Alfama — Calles empedradas y fado.
+4. Tranvía 28 — Recorrido panorámico.
+5. Mirador de Santa Luzia — Vista al casco antiguo.
+6. Mercado da Ribeira (Time Out Market) — Gastronomía y ambiente.
+7. Castillo de San Jorge — Historia y panorámicas.
+8. Bairro Alto — Vida nocturna y bares.
+9. Excursión a Sintra — Palacios y naturaleza.
+10. Plato bacalhau + dulce pastel de nata — Experiencia culinaria.
+''',
+'londres': '''
+Londres — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De asentamiento romano a capital mundial, Londres ha tejido siglos de historia política, cultural y artística.
+
+• Dónde late  
+Museos gratuitos, parques reales y mercados de barrio son su pulso cotidiano.
+
+• Hitos  
+Big Ben, Tower Bridge y eventos como el Notting Hill Carnival definen su skyline.
+
+• Identidad cultural  
+Teatros, pubs históricos, gastronomía multicultural y mercados callejeros crean un Londres vibrante.
+
+Top 10 actividades
+1. Tour por Westminster y Big Ben — Historia política.
+2. British Museum — Arte y antigüedades.
+3. Tower of London — Corona y leyendas.
+4. Camden Market — Compras y street food.
+5. Covent Garden — Arte callejero y tiendas.
+6. Paseo por South Bank — Río Támesis y vistas.
+7. Hyde Park — Picnic y relajación.
+8. London Eye — Panorama urbano.
+9. Espectáculo en West End — Teatro y música.
+10. Fish & chips + té tradicional — Sabor londinense.
+''',
+'madrid': '''
+Madrid — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De asentamiento árabe a capital moderna, Madrid creció entre palacios, mercados y plazas, fusionando tradición y modernidad.
+
+• Dónde late  
+Entre el Triángulo del Arte, La Latina y el Retiro se concentra vida cultural, gastronómica y nocturna.
+
+• Hitos  
+Museos, festivales y arquitectura emblemática marcan su skyline.
+
+• Identidad cultural  
+Tapas, vermut, tertulias en cafés históricos y vida nocturna activa definen la esencia madrileña.
+
+Top 10 actividades
+1. Museo del Prado — Arte clásico y renacentista.
+2. Parque del Retiro — Paseo y relax.
+3. Barrio de La Latina — Tapas y ambiente.
+4. Plaza Mayor — Historia y fotografía.
+5. Palacio Real — Arquitectura y cultura.
+6. Mercado de San Miguel — Gastronomía local.
+7. Gran Vía — Compras y teatros.
+8. Templo de Debod — Atardecer fotográfico.
+9. Barrio de Malasaña — Arte urbano y vida nocturna.
+10. Cocido madrileño + dulce local — Sabor auténtico.
+''',
+'miami': '''
+Miami — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De asentamiento costero a ciudad internacional, Miami creció gracias a inmigración, comercio y turismo.
+
+• Dónde late  
+Art Deco en South Beach, barrios latinos y vibrante vida en Wynwood y Little Havana.
+
+• Hitos  
+Playas, festivales de música y diseño y eventos deportivos destacan en su skyline moderno.
+
+• Identidad cultural  
+Gastronomía latina, arte urbano y vida nocturna hacen de Miami un lugar cosmopolita y creativo.
+
+Top 10 actividades
+1. Recorrido Art Deco en South Beach — Historia y arquitectura.
+2. Wynwood Walls — Arte callejero y fotografía.
+3. Little Havana — Cultura cubana y cafés.
+4. Miami Beach Boardwalk — Paseo junto al mar.
+5. Vizcaya Museum & Gardens — Historia y jardines.
+6. Parque Bayfront — Relax y eventos.
+7. Crucero por Biscayne Bay — Vistas urbanas y naturaleza.
+8. Museo PAMM — Arte moderno.
+9. Excursión a Key Biscayne — Playas y naturaleza.
+10. Ceviche + pastelitos cubanos — Sabor auténtico.
+''',
+'napoles': '''
+Nápoles — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Fundada por griegos y romanos, Nápoles se convirtió en puerto vital del sur de Italia y puerta a historia y gastronomía.
+
+• Identidad  
+Calles estrechas, mercados y pizzerías tradicionales conviven con vistas al Vesubio y al golfo.
+
+Plan exprés
+1) Paseo por Spaccanapoli (60–90 min)
+2) Mirador de Castel Sant’Elmo
+3) Mercado Pignasecca — street food
+4) Barrio de Quartieri Spagnoli
+5) Pizza napolitana + sfogliatella
+''',
+'nara': '''
+Nara — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Capital del Japón antiguo en el siglo VIII, Nara conserva templos y parques que narran su historia imperial.
+
+• Identidad  
+Templos, ciervos libres y callejones tradicionales hacen de Nara un lugar tranquilo y fotogénico.
+
+Plan exprés
+1) Paseo por Todai-ji y Parque de Nara (60–90 min)
+2) Kasuga Taisha — Templo emblemático
+3) Calle principal Naramachi — Artesanía y cafés
+4) Callejones tradicionales
+5) Dulces locales y mochi
+''',
+'new_york': '''
+New York — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De colonia holandesa a metrópolis global, Nueva York creció como epicentro de comercio, inmigración y cultura.
+
+• Dónde late  
+Manhattan y Brooklyn concentran skyline, arte, gastronomía y vida urbana.
+
+• Hitos  
+Times Square, Statue of Liberty y museos icónicos definen su carácter.
+
+• Identidad cultural  
+Gastronomía internacional, vida nocturna, Broadway y mercados urbanos crean una ciudad inagotable.
+
+Top 10 actividades
+1. Central Park — Paseo y relax.
+2. Empire State Building — Vistas panorámicas.
+3. Times Square — Luces y energía.
+4. Museo Metropolitano — Arte global.
+5. Brooklyn Bridge — Fotografía y paseo.
+6. High Line — Parque elevado y arte urbano.
+7. Museo de Historia Natural — Exhibiciones icónicas.
+8. Broadway Show — Teatro y música.
+9. Excursión a Staten Island Ferry — Estatua de la Libertad.
+10. Bagel + cheesecake local — Sabor auténtico.
+''',
+'okinawa': '''
+Okinawa — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde reino Ryukyu hasta prefectura japonesa, Okinawa creció entre comercio, cultura y playas paradisíacas.
+
+• Dónde late  
+Playas turquesa, cultura Ryukyu, mercados y festivales isleños definen su ritmo.
+
+• Hitos  
+Castillos históricos, museos de la guerra y parques costeros reflejan su historia y resiliencia.
+
+• Identidad cultural  
+Gastronomía local, música tradicional y vida isleña relajada crean un ambiente único.
+
+Top 10 actividades
+1. Castillo Shuri — Historia Ryukyu.
+2. Aquarium Churaumi — Vida marina.
+3. Playas de Tokashiki — Snorkel y relax.
+4. Mercado Makishi — Gastronomía local.
+5. Museo de la Paz — Historia y memoria.
+6. Ruta de la cerveza local — Degustación.
+7. Templo Okinawa — Tradición y arquitectura.
+8. Festival Eisa — Música y danza.
+9. Excursión a Kerama Islands — Naturaleza y snorkel.
+10. Soba okinawense + dulce local — Sabor auténtico.
+''',
+'orlando': '''
+Orlando — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De villa rural a centro mundial de parques temáticos y entretenimiento, Orlando creció gracias al turismo y la innovación.
+
+• Dónde late  
+Parques temáticos, centros comerciales y lagos urbanos concentran su energía.
+
+• Hitos  
+Disney, Universal y eventos internacionales definen su skyline y atractivo turístico.
+
+• Identidad cultural  
+Vida familiar, entretenimiento, gastronomía y compras hacen de Orlando un destino completo.
+
+Top 10 actividades
+1. Magic Kingdom (Disney) — Diversión familiar.
+2. Universal Studios — Experiencia temática.
+3. Epcot — Cultura y gastronomía global.
+4. Parque Lake Eola — Paseo urbano.
+5. ICON Park y Wheel — Vistas y entretenimiento.
+6. Disney Springs — Compras y gastronomía.
+7. Parque temático Island of Adventure — Aventuras intensas.
+8. Excursión a Kennedy Space Center — Ciencia y historia.
+9. Downtown Orlando — Arte, cafés y cultura.
+10. Plato local + snack temático — Cierra con sabor auténtico.
+''',
+'osaka': '''
+Osaka — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De fortaleza samurái a ciudad comercial, Osaka ha sido el corazón económico de Japón, conectando historia y modernidad.
+
+• Dónde late  
+Dotonbori, castillo y food scene callejera concentran cultura urbana y gastronomía vibrante.
+
+• Hitos  
+Castillo de Osaka, templos históricos y festivales locales definen su skyline dinámico.
+
+• Identidad cultural  
+Ramen callejero, takoyaki y festivales tradicionales conviven con tecnología y vida nocturna.
+
+Top 10 actividades
+1. Castillo de Osaka — Historia y jardines.
+2. Dotonbori — Street food y luces de neón.
+3. Shinsaibashi — Compras y boutiques.
+4. Templo Shitennoji — Arquitectura y espiritualidad.
+5. Umeda Sky Building — Vistas panorámicas.
+6. Mercado Kuromon Ichiba — Productos frescos.
+7. Universal Studios Japan — Diversión temática.
+8. Namba Parks — Compras y arquitectura.
+9. Excursión a Nara o Kobe — Historia y gastronomía cercana.
+10. Takoyaki + dulce local — Sabor auténtico.
+''',
+'pamplona': '''
+Pamplona — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+De asentamiento medieval a ciudad famosa por los encierros de San Fermín, Pamplona mantiene su casco histórico intacto.
+
+• Identidad  
+Calles empedradas, plazas y mercados tradicionales reflejan su cultura local.
+
+Plan exprés
+1) Paseo por el centro histórico (60–90 min)
+2) Mirador del Parque de la Ciudadela
+3) Mercado de Santo Domingo — productos locales
+4) Calle más pintoresca de la ciudad
+5) Pintxo y dulce navarro típico
+''',
+'paris': '''
+París — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De asentamiento romano a capital mundial de la cultura y el arte, París ha marcado la historia de Europa con su estilo único.
+
+• Dónde late  
+A orillas del Sena, entre el Louvre, Montmartre y los bulevares de Haussmann se concentra la vida parisina.
+
+• Hitos  
+Torre Eiffel, Notre-Dame, Sacré-Cœur y festivales culturales definen su skyline romántico y moderno.
+
+• Identidad cultural  
+Cafés, gastronomía gourmet, museos y mercados callejeros crean la esencia parisina.
+
+Top 10 actividades
+1. Torre Eiffel — Vistas panorámicas.
+2. Louvre — Arte y cultura.
+3. Barrio de Montmartre — Calles pintorescas y artistas.
+4. Notre-Dame — Historia y arquitectura.
+5. Paseo por el Sena — Crucero romántico.
+6. Jardines de Luxemburgo — Picnic y relax.
+7. Le Marais — Compras y gastronomía.
+8. Centre Pompidou — Arte moderno.
+9. Excursión a Versalles — Palacio y jardines.
+10. Croissant + macaron local — Sabor auténtico.
+''',
+'phuket': '''
+Phuket — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De puerto comercial a destino turístico internacional, Phuket combina playas paradisíacas y cultura tailandesa.
+
+• Dónde late  
+Patong, Phuket Town y playas secretas concentran vida local, gastronomía y ocio.
+
+• Hitos  
+Templos, miradores y festivales como Vegetarian Festival definen su skyline costero.
+
+• Identidad cultural  
+Playas, gastronomía callejera, mercados nocturnos y cultura isleña crean un ambiente vibrante.
+
+Top 10 actividades
+1. Patong Beach — Playa y deportes acuáticos.
+2. Phuket Old Town — Arquitectura y cafés.
+3. Gran Buda de Phuket — Vista panorámica.
+4. Excursión a Phi Phi Islands — Naturaleza y snorkel.
+5. Mercados nocturnos de Phuket — Comida y artesanía.
+6. Templo Wat Chalong — Historia y tradición.
+7. Mirador Karon — Fotografía y paisaje.
+8. Clase de cocina tailandesa — Gastronomía práctica.
+9. Spa y masajes locales — Relajación.
+10. Plato local + dulce tailandés — Sabor auténtico.
+''',
+'pisa': '''
+Pisa — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Ciudad medieval famosa por su poder marítimo y su influencia en Toscana.
+
+• Identidad  
+Calles históricas, plazas emblemáticas y mercados de barrio reflejan la vida local.
+
+Plan exprés
+1) Piazza dei Miracoli y Torre inclinada (60–90 min)
+2) Baptisterio y Catedral
+3) Calle Borgo Stretto — compras y cafés
+4) Mercados locales
+5) Gelato italiano y dulces típicos
+''',
+'praga': '''
+Praga — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Desde asentamientos eslavos hasta capital bohemia, Praga combina historia medieval con arte y cultura centroeuropea.
+
+• Dónde late  
+Casco antiguo, Malá Strana y Puente de Carlos concentran vida urbana y patrimonio.
+
+• Hitos  
+Castillo de Praga, Reloj Astronómico y festivales locales definen su skyline histórico.
+
+• Identidad cultural  
+Cerveza artesanal, gastronomía tradicional, cafés y música clásica hacen de Praga un destino vibrante.
+
+Top 10 actividades
+1. Castillo de Praga — Historia y vistas.
+2. Puente de Carlos — Fotografía y paseo.
+3. Old Town Square — Reloj Astronómico y ambiente.
+4. Barrio de Malá Strana — Calles pintorescas.
+5. Catedral de San Vito — Arquitectura gótica.
+6. Mercado Havelské — Artesanía y productos locales.
+7. Excursión a Kutná Hora — Historia y cultura cercana.
+8. Teatro Nacional — Arte y espectáculos.
+9. Cerveza checa + pastel tradicional — Sabor auténtico.
+10. Crucero por el río Moldava — Vistas panorámicas.
+''',
+'roma': '''
+Roma — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De asentamiento etrusco a imperio mundial, Roma es un museo viviente donde cada calle narra historia.
+
+• Dónde late  
+Foro Romano, Coliseo y Trastevere concentran cultura, gastronomía y vida cotidiana.
+
+• Hitos  
+Panteón, Fontana di Trevi y festivales culturales definen su skyline histórico.
+
+• Identidad cultural  
+Pasta, gelato, cafés y plazas con historia crean una experiencia italiana única.
+
+Top 10 actividades
+1. Coliseo — Historia y arquitectura.
+2. Foro Romano — Ruinas y cultura.
+3. Panteón — Arte y religión.
+4. Plaza Navona — Esculturas y cafés.
+5. Fontana di Trevi — Fotografía y tradición.
+6. Vaticano y Basílica de San Pedro — Arte y espiritualidad.
+7. Barrio Trastevere — Callejones y gastronomía.
+8. Museos Vaticanos — Arte y cultura.
+9. Excursión a Villa Borghese — Jardines y museos.
+10. Plato pasta + gelato — Cierra con sabor auténtico.
+''',
+'san_sebastian': '''
+San Sebastian — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+De villa pesquera a capital cultural del País Vasco, San Sebastián mantiene su casco histórico y playas icónicas.
+
+• Identidad  
+Calles pintorescas, paseos costeros y mercados reflejan tradición y estilo de vida local.
+
+Plan exprés
+1) Paseo por Parte Vieja (60–90 min)
+2) Mirador Monte Urgull
+3) Mercado de La Bretxa — productos locales
+4) Calle más pintoresca del casco antiguo
+5) Pintxo + dulce vasco típico
+''',
+'santiago_de_chile': '''
+Santiago de Chile — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Fundada en 1541 por Pedro de Valdivia, Santiago se desarrolló entre cerros y ríos, combinando historia colonial con modernidad urbana.
+
+• Dónde late  
+Barrio Bellavista, Lastarria y Providencia concentran cultura, gastronomía y vida urbana.
+
+• Hitos  
+Cerro San Cristóbal, Plaza de Armas y museos destacan en su skyline montañoso.
+
+• Identidad cultural  
+Vinos, gastronomía local, arte callejero y vida nocturna reflejan la esencia santiaguina.
+
+Top 10 actividades
+1. Cerro San Cristóbal — Vistas y teleférico.
+2. Barrio Bellavista — Arte, bares y cultura.
+3. Museo de la Memoria y los Derechos Humanos — Historia reciente.
+4. Plaza de Armas — Centro histórico.
+5. La Chascona (Casa de Neruda) — Cultura literaria.
+6. Mercado Central — Gastronomía chilena.
+7. Cerro Santa Lucía — Paseo y fotografía.
+8. Barrio Lastarria — Cafés y arte.
+9. Excursión a Viña del Mar o Valparaíso — Historia y color.
+10. Plato pastel de choclo + dulce local — Sabor auténtico.
+''',
+'santorini': '''
+Santorini — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Isla volcánica habitada desde la antigüedad, Santorini creció entre calderas, arquitectura blanca y tradiciones marítimas.
+
+• Identidad  
+Calles empedradas, casas encaladas y atardeceres icónicos crean un escenario único para los visitantes.
+
+Plan exprés
+1) Paseo por Oia y Fira (60–90 min)
+2) Mirador de la Caldera
+3) Playa Roja o Negra
+4) Calle más pintoresca del pueblo
+5) Vino local + postre tradicional
+''',
+'segovia': '''
+Segovia — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+Ciudad histórica de Castilla y León, famosa por su acueducto romano y su arquitectura medieval.
+
+• Identidad  
+Plazas, calles empedradas y gastronomía local crean un recorrido lleno de historia y sabor.
+
+Plan exprés
+1) Acueducto romano (60–90 min)
+2) Alcázar de Segovia — Castillo icónico
+3) Plaza Mayor — Centro histórico
+4) Calle más pintoresca del casco antiguo
+5) Cochinillo asado + dulce local
+''',
+'shanghai': '''
+Shanghái — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De pequeño puerto pesquero a metrópolis global, Shanghái se convirtió en epicentro de comercio, cultura y modernidad en China.
+
+• Dónde late  
+Bund, rascacielos de Pudong y shikumen tradicionales concentran su vida urbana y comercial.
+
+• Hitos  
+Torre de la Perla, Museo de Shanghái y festivales locales destacan en su skyline futurista.
+
+• Identidad cultural  
+Gastronomía local, mercados, arquitectura colonial y modernidad tecnológica crean una experiencia única.
+
+Top 10 actividades
+1. Paseo por el Bund — Skyline y fotografía.
+2. Torre de Shanghái — Vistas panorámicas.
+3. Jardín Yuyuan — Tranquilidad y arquitectura.
+4. Templo del Buda de Jade — Cultura y religión.
+5. Barrio Xintiandi — Cafés y boutiques.
+6. Museo de Shanghái — Arte y historia.
+7. Mercado de Nanjing Road — Compras y street food.
+8. Crucero por el río Huangpu — Skyline nocturno.
+9. Excursión a Zhujiajiao — Pueblo acuático cercano.
+10. Dumplings + dulces locales — Sabor auténtico.
+''',
+'singapur': '''
+Singapur — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De puerto estratégico colonial a ciudad-estado moderna, Singapur combina comercio, tecnología y multiculturalidad.
+
+• Dónde late  
+Gardens by the Bay, Marina Bay Sands y hawker centres concentran su vida urbana y cultural.
+
+• Hitos  
+Rascacielos futuristas, festivales multiculturales y barrios étnicos definen su skyline moderno.
+
+• Identidad cultural  
+Gastronomía variada, arquitectura innovadora y vida de calle reflejan su carácter cosmopolita.
+
+Top 10 actividades
+1. Gardens by the Bay — Naturaleza y arquitectura.
+2. Marina Bay Sands Skypark — Vistas panorámicas.
+3. Merlion Park — Fotografía icónica.
+4. Chinatown — Cultura y compras.
+5. Little India y Kampong Glam — Callejones y gastronomía.
+6. Sentosa Island — Playa y entretenimiento.
+7. Museo ArtScience — Ciencia y arte.
+8. Singapore Flyer — Panorámica urbana.
+9. Hawker Centres — Street food local.
+10. Plato laksa + kueh local — Sabor auténtico.
+''',
+'tokio': '''
+Tokio — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De Edo a capital mundial, Tokio combina tradición japonesa con tecnología y cultura pop.
+
+• Dónde late  
+Akihabara, Shinjuku y Shibuya conectan templos, rascacielos y callejones de izakayas.
+
+• Hitos  
+Shibuya Crossing, Tokyo Skytree y festivales locales destacan en su skyline moderno.
+
+• Identidad cultural  
+Gastronomía callejera, moda, anime y vida nocturna crean una experiencia urbana única.
+
+Top 10 actividades
+1. Cruzar Shibuya Crossing — Icono urbano.
+2. Tokyo Skytree — Vistas panorámicas.
+3. Akihabara — Electrónica y cultura otaku.
+4. Shinjuku Golden Gai — Bares y vida nocturna.
+5. Palacio Imperial y jardines — Historia y relax.
+6. Tsukiji Outer Market — Gastronomía local.
+7. Odaiba — Tecnología y entretenimiento.
+8. Templo Senso-ji en Asakusa — Cultura y tradición.
+9. Paseo por Harajuku — Moda y subcultura.
+10. Plato sushi + dulce local — Sabor auténtico.
+''',
+'toledo': '''
+Toledo — esencia local en pocas horas: rincones fotogénicos, sabores auténticos y paseos relajados.
+
+• Orígenes  
+De asentamiento romano a ciudad medieval, Toledo combina historia cristiana, musulmana y judía.
+
+• Identidad  
+Calles empedradas, plazas históricas y gastronomía local reflejan siglos de cultura.
+
+Plan exprés
+1) Paseo por el centro histórico (60–90 min)
+2) Mirador del Valle
+3) Mercado de abastos — productos locales
+4) Calle más pintoresca del casco antiguo
+5) Mazapán + plato local típico
+''',
+'venecia': '''
+Venecia — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De asentamientos en islas a ciudad marítima medieval, Venecia creció entre canales y comercio.
+
+• Dónde late  
+Plaza de San Marcos, Rialto y barrios de islas concentran vida urbana y turismo.
+
+• Hitos  
+Basílica de San Marcos, Palacio Ducal y góndolas icónicas definen su skyline acuático.
+
+• Identidad cultural  
+Canales, góndolas, cafés históricos y gastronomía veneciana crean un ambiente romántico y único.
+
+Top 10 actividades
+1. Plaza de San Marcos — Historia y arquitectura.
+2. Basílica de San Marcos — Arte y tradición.
+3. Palacio Ducal — Cultura y fotografía.
+4. Paseo en góndola — Experiencia veneciana.
+5. Puente de Rialto — Compras y vistas.
+6. Murano y Burano — Artesanía y color.
+7. Mercado de Rialto — Gastronomía y ambiente.
+8. Teatro La Fenice — Arte y cultura.
+9. Excursión a islas cercanas — Naturaleza y color.
+10. Plato risotto + dulce local — Sabor auténtico.
+''',
+'viena': '''
+Viena — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+De fortaleza romana a capital imperial, Viena se consolidó como centro cultural y político de Europa Central.
+
+• Dónde late  
+Ringstrasse, Stephansplatz y barrios de cafés concentran vida urbana y patrimonio.
+
+• Hitos  
+Palacio de Schönbrunn, Ópera Estatal y festivales de música clásica destacan en su skyline histórico.
+
+• Identidad cultural  
+Cafés históricos, pastelería vienesa, música clásica y mercados tradicionales crean la esencia urbana.
+
+Top 10 actividades
+1. Palacio de Schönbrunn — Historia y jardines.
+2. Ópera Estatal de Viena — Música y arquitectura.
+3. Stephansdom — Catedral gótica.
+4. MuseumsQuartier — Arte moderno y cultura.
+5. Paseo por Ringstrasse — Monumentos y palacios.
+6. Mercado Naschmarkt — Gastronomía y ambiente.
+7. Café Sacher — Pastelería icónica.
+8. Belvedere Palace — Arte y jardines.
+9. Excursión al Danubio — Naturaleza y paisajes.
+10. Plato wiener schnitzel + strudel — Sabor auténtico.
+''',
+'washington': '''
+Washington — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Planeada como capital de Estados Unidos, Washington combina política, historia y cultura urbana desde finales del siglo XVIII.
+
+• Dónde late  
+National Mall, Georgetown y museos Smithsonian concentran vida cultural y turística.
+
+• Hitos  
+Capitolio, Casa Blanca y monumentos históricos destacan en su skyline monumental.
+
+• Identidad cultural  
+Museos gratuitos, gastronomía variada y parques urbanos crean una experiencia educativa y entretenida.
+
+Top 10 actividades
+1. Capitolio de Estados Unidos — Historia política.
+2. Casa Blanca — Icono mundial.
+3. Museo Nacional de Historia Natural — Ciencia y cultura.
+4. Smithsonian Air & Space Museum — Tecnología y aviación.
+5. Monumento a Lincoln — Historia y fotografía.
+6. Georgetown — Compras y cafés.
+7. National Gallery of Art — Arte clásico y moderno.
+8. Paseo por el National Mall — Monumentos y memoriales.
+9. Excursión a Mount Vernon — Historia de Washington.
+10. Plato local + postre estadounidense — Experiencia culinaria.
+''',
+'yokohama': '''
+Yokohama — historia viva, barrios con carácter y una energía que se siente en plazas, mercados y miradores.
+
+• Fundación / orígenes  
+Puerto estratégico desde el siglo XIX, Yokohama creció como centro de comercio internacional y cultura moderna japonesa.
+
+• Dónde late  
+Minato Mirai, Chinatown y zonas portuarias reflejan la mezcla de tradición y modernidad.
+
+• Hitos  
+Torre Landmark, Yamashita Park y festivales culturales destacan en su skyline costero.
+
+• Identidad cultural  
+Gastronomía diversa, cafés modernos, festivales y arquitectura contemporánea crean un ambiente vibrante.
+
+Top 10 actividades
+1. Minato Mirai 21 — Paseo y fotografía.
+2. Torre Landmark — Vistas panorámicas.
+3. Chinatown — Gastronomía y cultura.
+4. Yamashita Park — Paseo junto al mar.
+5. Museo de CupNoodles — Innovación y diversión.
+6. Red Brick Warehouse — Compras y eventos.
+7. Sankeien Garden — Jardines tradicionales.
+8. Cosmo World — Parque de atracciones.
+9. Excursión a Enoshima — Naturaleza y cultura cercana.
+10. Plato ramen + dulce local — Sabor auténtico.
+''',

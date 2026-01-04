@@ -1,0 +1,25 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.1
+
+python-dotenv==1.0.1
+
+# Google / Firebase
+google-api-core==2.19.2
+google-cloud-storage==2.16.0
+firebase-admin==6.5.0
+
+# Seguridad y validación
+pydantic==2.8.2
+pydantic-settings==2.3.4
+email-validator==2.2.0
+
+# Opcional (para CORS)
+starlette==0.38.2
+
+# En caso de usar requests para APIs externas
+requests==2.32.3
+sqlalchemy==2.0.36
+google-api-python-client==2.154.0
+email-validator==2.2.0
+
+B3gk4625#

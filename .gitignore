@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+**/.metadata
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+**/*.log
+
+# Zip / exports
+*.zip

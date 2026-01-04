@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Wompi Redirect</title>
+<script>
+  window.onload = function () {
+    const params = new URLSearchParams(window.location.search);
+    const status = params.get('status') || '';
+    const transactionId = params.get('id') || '';
+    const deeplink = `carlitostravel://pago?status=${status}&id=${transactionId}`;
+    window.location.href = deeplink;
+  };
+</script>
+</head>
+<body>
+  <p>Procesando pago...</p>
+</body>
+</html>

@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Flutter / Dart
+**/.dart_tool/
+**/.pub/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.metadata
+
+# IDEs
+**/.idea/
+**/.vscode/
+
+# Android
+**/.gradle/
+**/local.properties
+**/*.iml
+
+# iOS / macOS
+**/Pods/
+**/.symlinks/
+**/DerivedData/
+**/*.xcuserstate
+**/*.xcuserdata/
+
+# Logs
+**/*.log
+
+# Archives
+*.zip

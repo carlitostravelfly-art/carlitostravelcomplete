@@ -1,0 +1,128 @@
+name: carlitos_travel_app   # Nombre descriptivo de la app
+description: "Aplicación de viajes con carruseles de imágenes, videos, cotizaciones y asesorías de visa."
+publish_to: 'none' # No se publica en pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.1
+  video_player: ^2.9.1
+  chewie: ^1.7.1
+  intl: ^0.19.0
+  http: ^1.1.0
+  table_calendar: ^3.0.9
+  uni_links: ^0.5.1
+ 
+
+  # UI y estilos
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.0.0
+
+  # Carruseles de imágenes
+  carousel_slider: ^5.0.0
+
+  # Iconos y gráficos SVG
+  flutter_svg: ^2.0.9
+
+  # Menús desplegables y estructura expandible
+  flutter_menu: ^0.4.1
+  expandable: ^5.0.1
+
+  # Reproducción de videos locales o de red
+  
+
+  # Manejo de animaciones simples
+  animated_widgets: ^1.0.0
+
+  # 🖼️ Galería interactiva con zoom y swipe
+  photo_view: ^0.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   
+    # 🧭 Logo de la app
+    - assets/logo/
+    - assets/videos/paris_v.mp4
+    - assets/videos/santorini_v.mp4
+    - assets/videos/roma_v.mp4
+    - assets/videos/miami_v.mp4
+    - assets/videos/madrid_v.mp4
+    - assets/videos/cusco_v.mp4
+    - assets/videos/seoul_v.mp4
+    - assets/videos/toledo_v.mp4
+    - assets/videos/segovia_v.mp4
+    - assets/videos/dubai_v.mp4
+    - assets/videos/buenos_aires_v.mp4
+    - assets/videos/budapest_v.mp4
+    - assets/videos/londres_v.mp4
+    - assets/videos/viena_v.mp4
+    - assets/videos/lisboa_v.mp4
+    - assets/videos/cancun_v.mp4
+    - assets/videos/santiago_de_chile_v.mp4
+    - assets/contactenos/contactenos_v01.mp4
+    - assets/contactenos/contactenos_v02.mp4
+    - assets/videos/pamplona_v.mp4
+    - assets/videos/san_sebastian_v.mp4
+    - assets/videos/amsterdam_v.mp4
+    - assets/videos/brujas_v.mp4
+    - assets/videos/praga_v.mp4
+    - assets/videos/new_york_v.mp4
+    
+
+    # 🌅 Imágenes principales para el carrusel de inicio
+    - assets/images/hero/
+
+    # 🏙️ Destinos principales
+    - assets/images/destinations/
+    - assets/images/destinations/japon/tokio/
+    - assets/images/destinations/francia/paris/
+    - assets/images/destinations/grecia/santorini/
+    - assets/images/destinations/tailandia/phuket/
+    - assets/images/destinations/italia/roma/
+    - assets/images/destinations/EEUU/miami/
+    - assets/images/destinations/espana/madrid/
+    - assets/images/destinations/peru/cusco/
+    - assets/images/destinations/corea del sur/seoul/
+    - assets/images/destinations/espana/toledo/
+    - assets/images/destinations/espana/segovia/
+    - assets/images/destinations/hungria/budapest/
+    - assets/images/destinations/eua/dubai/
+    - assets/images/destinations/argentina/buenos_aires/
+    - assets/images/destinations/austria/viena/
+    - assets/images/destinations/reino_unido/londres/
+    - assets/images/destinations/chile/santiago_de_chile/
+    - assets/images/destinations/portugal/lisboa/
+    - assets/images/destinations/mexico/cancun/
+    - assets/images/destinations/espana/pamplona/
+    - assets/images/destinations/espana/san_sebastian/
+    - assets/images/destinations/paises_bajos/amsterdam/
+    - assets/images/destinations/belgica/brujas/
+    - assets/images/destinations/republica_checa/praga/
+    - assets/images/destinations/EEUU/new_york/
+    - assets/contactenos/
+    # 👉 Puedes agregar más destinos siguiendo esta estructura:
+    # - assets/images/destinations/egipto/el_cairo/
+    # - assets/images/destinations/espana/madrid/
+
+    # ✈️ Fotos de viajes (galería de “Nuestros viajes”)
+    - assets/images/trips/
+
+    # 👤 Sección de biografía
+    - assets/images/biografia/
+
+    # 📝 Videos e imágenes para sección de visas
+    - assets/images/visa/
+
+    
