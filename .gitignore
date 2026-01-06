@@ -17,3 +17,5 @@ build/
 
 # Zip / exports
 *.zip
+backend_asesorias/service_account.json
+base_datos/carlitostravel.db
